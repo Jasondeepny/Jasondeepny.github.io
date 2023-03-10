@@ -1,2 +1,2 @@
 touch CNAME
-echo 'blog.jasondeepny.ml'> CNAME
+echo 'jasondeepny.ml'> CNAME
